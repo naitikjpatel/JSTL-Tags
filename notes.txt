@@ -1,0 +1,29 @@
+JSTL: stands for the JSP standard Tag Library
+The JSTL is collection of predefined tags to simply the jsp development.
+
+JSP ->You can create your custom tags
+
+Adavantages Of JSTL:
+*Fast Development : JSTL provides many tags that simplify the JSP.
+*Code Resuabilty : WE can use the JSTL  tags on Various pages.
+*No Need to Use Scriplet tag: it avoids the use of scriplet tag.
+
+
+
+
+
+**Why JSTL is needed? **
+
+
+
+
+**JSTL tags**
+
+1)Core Tags - variable support,URL management, flow control etc.
+2)Function Tags -The Function tags provide support for string manipulation and string length.
+3)Formating Tags - The Formatting tags provide support for message formatting,number and date formatting etc.
+4)XML Tags - Way of manipulating and creating XML documents:
+5)SQL Tags -  The JSTL SQL tags provide SQL support
+
+
+Now we mostly use jstl tags in jsp file -> we avoid to use the jsp tags like scriplate tag,expression tags
