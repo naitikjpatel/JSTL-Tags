@@ -12,6 +12,10 @@
 <body>
 <h2>This is JSTL Exaple</h2>
 
+<h1>This is All about the Core Tags</h1>
+
+
+
 <!-- 1.out tag : out tag is alternative of expression tags   . to print the varible we use the out tag -->
 
 <!-- 2.set tag : to create the varible we use the set tags -->
